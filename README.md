@@ -53,6 +53,6 @@ Sua ajuda é como um raio de sol para o nosso projeto\! Se você encontrou um pe
 
 Tem dúvidas ou só quer mandar um oi? Você pode encontrar a gente em:
 
-  * **[JamiledeOliveiraFranquilim ou kaorishi11]** – [jamyfranquilim@gmail.com],[geovannashimada11@gmail.com]
+  * **[JamiledeOliveiraFranquilim ou kaorishi11]** – [jamyfranquilim@gmail.com],[kaorishimada11@gmail.com]
 
 Obrigado por visitar o nosso cantinho de IA\! Esperamos que goste da experiência.
