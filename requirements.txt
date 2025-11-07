@@ -1,0 +1,7 @@
+# Para versão básica (não são necessárias dependências externas)
+# O código funciona apenas com bibliotecas padrão do Python
+
+# Para futuras integrações com APIs reais:
+# openai
+# requests
+# transformers
